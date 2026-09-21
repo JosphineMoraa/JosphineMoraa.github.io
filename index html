@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Josphine Moraa | Web Developer</title>
+  </head>
+  <body>
+    <main>
+      <h1>Josphine Moraa</h1>
+      <p>
+        I am a beginner web developer learning HTML, CSS, JavaScript,
+        Git, and GitHub.
+      </p>
+
+      <h2>What I’m learning</h2>
+      <ul>
+        <li>Writing semantic HTML</li>
+        <li>Creating responsive CSS layouts</li>
+        <li>Using Git and GitHub to track my work</li>
+      </ul>
+
+      <p>
+        Follow my progress on
+        <a href="https://github.com/JosphineMoraa">GitHub</a>.
+      </p>
+    </main>
+  </body>
+</html>
